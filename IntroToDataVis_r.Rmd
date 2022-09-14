@@ -3,7 +3,7 @@ title: An R Markdown document converted from "IntroToDataVis_r.ipynb"
 output: html_document: 
 ---
 
-# Hands-on with Python + matplotlib
+# Hands-on with R+ ggplot2
 
 # 1. Improving Pie Charts
 
