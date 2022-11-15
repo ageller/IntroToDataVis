@@ -32,11 +32,16 @@ data
 
 ## 1.2. For many uses cases (including this) a bar chart is a better option than a pie chart.
 
-*Humans can more easily interpret differences in bar charts. Pie charts require us to interpret areas = slow, while bar charts use position = fast. Generally, you should choose a bar chart over a pie chart when:* - *There are too many categories to easily distinguish between pie chart areas (as we have here).* - *Slice sizes in the pie chart are too similar (as we have here).* - *You have multiple data sets (which we do not have here).* - *When the raw percentages can provide as much (or more) meaning than fraction of a whole (as we have here).*
+*Humans can more easily interpret differences in bar charts. Pie charts require us to interpret areas = slow, while bar charts use position = fast. Generally, you should choose a bar chart over a pie chart when:*
+
+-   *There are too many categories to easily distinguish between pie chart areas (as we have here).*
+-   *Slice sizes in the pie chart are too similar (as we have here).*
+-   *You have multiple data sets (which we do not have here).*
+-   *When the raw percentages can provide as much (or more) meaning than fraction of a whole (as we have here).*
 
 *Pie charts are only useful when there are few categories, each category has a very different percentage, AND the purpose of your visualization is to show fractions of a whole.*
 
-*Here is the default bar chart from python. Leaves lots to be desired...*
+*Here is the default bar chart from ggplot. Leaves lots to be desired...*
 
 ```{r}
 ggplot(data, aes(x = Label, y = Value)) +
