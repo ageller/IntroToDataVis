@@ -4,6 +4,6 @@ Visualizing your data can be a highly effective way to communicate your research
  
 If you don't have Python installed on your computer, but want to run the Python notebook, you can use the [(Python) version on Google colab linked here.](https://colab.research.google.com/drive/1TjL8rz4loNRwFl6IlJbxFAT5uve0fU17?usp=sharing)
 
-For those who prefer R over Python, I also rewrote my Python code in R and included a Jupyter notebook and R Markdown version of the same R code in this repo.  If you don't have R installed on your computer, but want to run the R notebook, you can use the [(R) version on Google colab linked here.](https://colab.research.google.com/drive/1nA0SKBXAab1vSUD8ybAdqo7TUYk7apbj?usp=sharing).
+For those who prefer R over Python, I also rewrote my Python code in R and included a Jupyter notebook and R Markdown version of the same R code in this repo.  If you don't have R installed on your computer, but want to run the R notebook, you can use the [(R) version on Google colab linked here.](https://colab.research.google.com/drive/1nA0SKBXAab1vSUD8ybAdqo7TUYk7apbj?usp=sharing)
 
 Click [here](https://docs.google.com/presentation/d/16lYIhwe2oNxxyXQQSHUelhlXC8Da_NRxCVZPKiSjzRk/edit?usp=sharing) for the Google Slides version of the talk.
