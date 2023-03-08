@@ -1,6 +1,6 @@
 ---
 title: An R Markdown document converted from "IntroToDataVis_r.ipynb"
-output: html_document: 
+output: html_document
 ---
 
 # Hands-on with R+ ggplot2
