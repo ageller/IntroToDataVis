@@ -20,7 +20,7 @@ library(ggplot2)
 
 ## 1.1. Read in the data
 
-*This is a made up data set that a colleague of mine. We have 10 items, each with a text label and a numeric value.*
+*This is a made up data set from a colleague of mine. We have 10 items, each with a text label and a numeric value.*
 
 *I'm using `read.csv` to read in the data.*
 
