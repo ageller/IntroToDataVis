@@ -16,4 +16,4 @@ __pycache__
 
 # data files #
 ###################
-data/
+data/[Tt]axi*
